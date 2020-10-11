@@ -17,3 +17,9 @@ para crear las tablas y los archivos .txt
 ```
 node app.js crear --limite (un numero cualquiera) -b (numero por el cual se va a multiplicar)
 ```
+
+para listar las tablas en Consola o terminal
+
+```
+node app.js listar --limite (un numero cualquiera) -b (numero por el cual se va a multiplicar)
+```
